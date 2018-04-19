@@ -1,0 +1,24 @@
+{
+  "name": "onlineshopping",
+  "version": "1.0.0",
+  "description": "A replica of an online shopping website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agampreetsingh/onlineshopping.git"
+  },
+  "author": "Agampreet Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agampreetsingh/onlineshopping/issues"
+  },
+  "homepage": "https://github.com/agampreetsingh/onlineshopping#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mysql2": "^1.5.3",
+    "sequelize": "^4.37.6"
+  }
+}
